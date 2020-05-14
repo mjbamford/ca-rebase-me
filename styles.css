@@ -1,0 +1,9 @@
+body {
+  background-color: yellow;
+}
+
+#box {
+  height: 550px;
+  width: 550px;
+  background-color: red;
+}
